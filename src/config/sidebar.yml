@@ -4,7 +4,7 @@
   link: "/"
 - label: "Getting started"
   link: "/getting-started"
-- label: "CSE Courses"
+- label: "Courses"
   items:
     - label: "CSE101"
       link: "/courses/cse101"
@@ -12,6 +12,10 @@
       link: "/courses/cse114"
     - label: "CSE215"
       link: "/courses/cse215"
+    - label: "CSE216"
+      link: "/courses/cse216"
+    - label: "CSE220"
+      link: "/courses/cse220"
 - label: Usage
   items:
     - label: "Creating docs"
