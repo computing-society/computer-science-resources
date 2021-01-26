@@ -15,10 +15,11 @@
 </p>
 
 <p align="center">
-
+  ![Gatsby Website Publish](https://github.com/computing-society/computer-science-resources/workflows/Gatsby%20Build/badge.svg?branch=master)
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%238257E6">
 
 </p>
 
 ## ⚡️ Contribution
+
 This project is still in development mode. It is being built using GatsbyJS, a ReactJS-based framework. If you have any experience with ReactJS, send an email to [@janarosmonaliev](mailto:zhanarbek.osmonaliev@stonybrook.edu)

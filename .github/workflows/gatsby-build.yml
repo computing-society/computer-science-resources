@@ -1,4 +1,4 @@
-name: Gatsby Website Publish
+name: Gatsby Build
 
 on:
   push:
