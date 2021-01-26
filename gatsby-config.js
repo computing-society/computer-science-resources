@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    siteTitle: `Rocket Docs`,
-    defaultTitle: `Rocket Docs`,
-    siteTitleShort: `Rocket Docs`,
-    siteDescription: `Out of the box Gatsby Theme for creating documentation websites easily and quickly`,
+    siteTitle: `SUNY Korea Computing Society`,
+    defaultTitle: `SUNY Korea Computing Society`,
+    siteTitleShort: `SKCS`,
+    siteDescription: `Resources for Computer Science students at SUNY Korea`,
     siteUrl: `https://rocketdocs.netlify.com`,
-    siteAuthor: `@rocketseat`,
+    siteAuthor: `@janarosmonaliev`,
     siteImage: `/banner.png`,
     siteLanguage: `en`,
-    themeColor: `#8257E6`,
+    themeColor: `#752CFF`,
     basePath: `/`,
   },
   plugins: [
@@ -17,15 +17,14 @@ module.exports = {
       options: {
         configPath: `src/config`,
         docsPath: `src/docs`,
-        githubUrl: `https://github.com/rocketseat/gatsby-themes`,
-        baseDir: `examples/gatsby-theme-docs`,
+        githubUrl: `https://github.com/computing-society/computer-science-resourses`,
       },
     },
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Rocketseat Gatsby Themes`,
-        short_name: `RS Gatsby Themes`,
+        name: `SUNY Korea Computing Society`,
+        short_name: `SKCS`,
         start_url: `/`,
         background_color: `#ffffff`,
         display: `standalone`,
@@ -40,12 +39,12 @@ module.exports = {
       },
     },
     `gatsby-plugin-remove-trailing-slashes`,
-    {
-      resolve: `gatsby-plugin-canonical-urls`,
-      options: {
-        siteUrl: `https://rocketdocs.netlify.com`,
-      },
-    },
+    // {
+    //   resolve: `gatsby-plugin-canonical-urls`,
+    //   options: {
+    //     siteUrl: `https://rocketdocs.netlify.com`,
+    //   },
+    // },
     `gatsby-plugin-offline`,
   ],
 };
