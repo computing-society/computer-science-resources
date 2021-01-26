@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  ![Gatsby Website Publish](https://github.com/computing-society/computer-science-resources/workflows/Gatsby%20Build/badge.svg?branch=master)
+  <img alt-"Gatsby Status" src=https://github.com/computing-society/computer-science-resources/workflows/Gatsby%20Build/badge.svg?branch=master">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%238257E6">
 
 </p>
