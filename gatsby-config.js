@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/computer-science-resources",
   siteMetadata: {
     siteTitle: `SUNY Korea Computing Society`,
     defaultTitle: `SUNY Korea Computing Society`,

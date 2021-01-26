@@ -30,7 +30,7 @@
     "Computer Science"
   ],
   "scripts": {
-    "build": "gatsby build",
+    "build": "gatsby build --prefix-paths",
     "start": "gatsby develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean"
