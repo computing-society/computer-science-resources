@@ -50,6 +50,8 @@ typings/
 
 # Output of 'npm pack'
 *.tgz
+*.zip
+*.rar
 
 # dotenv environment variable files
 .env*

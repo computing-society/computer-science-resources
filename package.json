@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-rocket-docs",
+  "name": "computer-science-resources",
   "private": true,
   "version": "1.0.0",
-  "description": "Out of the box Gatsby Starter for creating documentation websites easily and quickly. With support for MDX, code highlight, Analytics, SEO and more",
-  "author": "João Pedro Schmitz <oi@joaopedro.cc> (@jpedroschmitz)",
+  "description": "Resources for Computer Science courses offered at SUNY Korea as part of Stony Brook University's curriculum.",
+  "author": "Zhanarbek Osmonaliev, SKCS (@janarosmonaliev)",
   "license": "MIT",
   "starter-name": "gatsby-starter-rocket-docs",
   "dependencies": {
@@ -23,7 +23,11 @@
   "keywords": [
     "gatsby",
     "rocketseat",
-    "gatsby-starter"
+    "gatsby-starter",
+    "SUNY Korea",
+    "SKCS",
+    "Computing Society",
+    "Computer Science"
   ],
   "scripts": {
     "build": "gatsby build",
