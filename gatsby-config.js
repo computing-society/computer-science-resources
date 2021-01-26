@@ -18,7 +18,7 @@ module.exports = {
       options: {
         configPath: `src/config`,
         docsPath: `src/docs`,
-        githubUrl: `https://github.com/computing-society/computer-science-resourses`,
+        githubUrl: `https://github.com/computing-society/computer-science-resources`,
       },
     },
     {

@@ -1,4 +1,4 @@
-name: SKCS Gatsby Website Publish
+name: Gatsby Website Publish
 
 on:
   push:
