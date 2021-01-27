@@ -1,7 +1,9 @@
 # Sidebar navigation
 
 - label: "Getting started"
-  link: "/getting-started"
+  link: "/"
+- label: "Contributing"
+  link: "/contributing"
 - label: "Courses"
   items:
     - label: "CSE101"

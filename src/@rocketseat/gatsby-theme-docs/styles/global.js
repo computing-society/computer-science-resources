@@ -90,8 +90,8 @@ export default function GlobalStyle() {
           padding: 4px;
         }
         a {
-          color: ${theme.colors.text};
-          font-weight: bold;
+          color: ${theme.colors.primary};
+          font-weight: 500;
           text-decoration: none;
           &:hover {
             text-decoration: underline;
