@@ -8,6 +8,22 @@ export default function GlobalStyle() {
   return (
     <Global
       styles={css`
+        ::-webkit-scrollbar {
+          width: 10px;
+        }
+        ::-webkit-scrollbar-track {
+        }
+        ::-webkit-scrollbar-thumb {
+          border-radius: 5px;
+          background: #e0e0e0;
+          transition: all 0.3s ease;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+          background: #bdbdbd;
+        }
+        ::-webkit-scrollbar-thumb:active {
+          background: #bdbdbd;
+        }
         *,
         *::after,
         *::before {
