@@ -15,14 +15,14 @@ export default function GlobalStyle() {
         }
         ::-webkit-scrollbar-thumb {
           border-radius: 5px;
-          background: #e0e0e0;
+          background: #f4f4f4;
           transition: all 0.3s ease;
         }
         ::-webkit-scrollbar-thumb:hover {
-          background: #bdbdbd;
+          background: #e0e0e0;
         }
         ::-webkit-scrollbar-thumb:active {
-          background: #bdbdbd;
+          background: #e0e0e0;
         }
         *,
         *::after,

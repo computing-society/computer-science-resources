@@ -1,7 +1,5 @@
 # Sidebar navigation
 
-- label: "Introduction"
-  link: "/"
 - label: "Getting started"
   link: "/getting-started"
 - label: "Courses"
@@ -56,21 +54,7 @@
       link: "/courses/cse475"
     - label: "CSE487"
       link: "/courses/cse487"
-- label: Usage
-  items:
-    - label: "Creating docs"
-      link: "/usage/creating-docs"
-    - label: "Navigation"
-      link: "/usage/navigation"
-    - label: "Shadowing"
-      link: "/usage/shadowing"
-- label: More
-  items:
-    - label: FAQ
-      link: /faq
-    - label: Changelog
-      link: /changelog
 - label: Community
   items:
     - label: "Github"
-      link: https://github.com/rocketseat/gatsby-themes
+      link: https://github.com/computing-society/computer-science-resources
