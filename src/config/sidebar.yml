@@ -16,6 +16,10 @@
       link: "/courses/cse216"
     - label: "CSE220"
       link: "/courses/cse220"
+    - label: "CSE300"
+      link: "/courses/cse300"
+    - label: "CSE303"
+      link: "/courses/cse303"
 - label: Usage
   items:
     - label: "Creating docs"
