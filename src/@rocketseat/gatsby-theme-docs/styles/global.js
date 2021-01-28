@@ -10,6 +10,7 @@ export default function GlobalStyle() {
       styles={css`
         ::-webkit-scrollbar {
           width: 10px;
+          height: 5px;
         }
         ::-webkit-scrollbar-track {
         }
